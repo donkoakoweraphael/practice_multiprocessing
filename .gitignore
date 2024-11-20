@@ -1,0 +1,75 @@
+# Python bytecode files
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+*.pdb
+
+# Virtual environments
+env/
+venv/
+ENV/
+VENV/
+*.env
+*.venv
+
+# IDE and editor files
+.idea/
+.vscode/
+*.swp
+*~
+
+# Python development tools
+*.egg-info/
+dist/
+build/
+eggs/
+parts/
+sdist/
+pip-log.txt
+pip-delete-this-directory.txt
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Django stuff (if using Django)
+*.log
+*.pot
+*.pyc
+*.db
+*.sqlite3
+db.sqlite3
+/static/
+*.log
+
+# Test and coverage files
+.coverage
+nosetests.xml
+coverage.xml
+*.cover
+
+# MyPy
+.mypy_cache/
+.dmypy.json
+
+# Pyre type checker
+.pyre/
+
+# pyenv
+.python-version
+
+# Poetry (if using Poetry)
+.poetry/
+*.lock
+
+# Pycharm specific
+.idea/
+
+# VS Code specific
+.vscode/
+
+# MacOS Finder
+.DS_Store
+
+# Windows Thumbnails
+Thumbs.db
